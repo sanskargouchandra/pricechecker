@@ -1,8 +1,7 @@
 <div align="center">
 
 
-  <img src="https://github.com/sanskargouchandra/pricechecker/assets/117097248/ff9a043a-f5b1-48c4-a0cb-2631f1b90ee4" width='400' alt="logo" />
-
+  <img src="https://github.com/sanskargouchandra/pricechecker/assets/117097248/7fdd22d1-ee0c-4370-b860-de37933f1546" width='400' alt="logo" />
   
   # Price-Checker with NEXT.JS!
   
@@ -52,7 +51,9 @@ The server-side logic is implemented with serverless functions that handle vario
 - Cheerio: A fast, flexible, and lean implementation of core jQuery designed specifically for the server. It is used for parsing the HTML response from the Amazon product page.
 - React Responsive Carousel: A lightweight carousel component for React. It is used for displaying a carousel of images on the home page.
 - Google Fonts: A library of free licensed font families. It is used for defining the font styles in the application.
-# Installation
+
+- 
+# :gear: Installation
 
 
 ## :toolbox: Getting Started
@@ -60,12 +61,10 @@ The server-side logic is implemented with serverless functions that handle vario
 ### :bangbang: Prerequisites
 
 - Create BrightData account <a href='https://brightdata.com/'>HERE</a>
-</br>
 Than got to Amazon-Webscraper and Copy API key and paste it on .env file.
 for Refrence `.env.example` file is on Repo.
 </br>
-
-### :gear:Follow these steps to install and run the project:
+Follow these steps to install and run the project:
 
 1. **Clone the repository**
 
