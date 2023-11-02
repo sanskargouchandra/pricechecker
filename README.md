@@ -1,10 +1,47 @@
-## Overview
+<div align="center">
+
+
+  <img src="https://github.com/sanskargouchandra/pricechecker/assets/117097248/ff9a043a-f5b1-48c4-a0cb-2631f1b90ee4" width='400' alt="logo" />
+
+  
+  # Price-Checker with NEXT.JS!
+  
+  <p>
+A full-fleshed webscraper web app build on Next.js13 with tracking the prices of different product you want, and send email when the price become lowest with help of cron and nodemailer. In this project we use brightdata for scraping data from Web.
+  </p>
+  
+  
+<!-- Badges -->
+
+<a href="https://pricechecker-one.vercel.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
+![](https://img.shields.io/badge/Maintained-Yes-indigo)
+![](https://img.shields.io/github/forks/SashenJayathilaka/AMAZON-Clone.svg)
+![](https://img.shields.io/github/stars/SashenJayathilaka/AMAZON-Clone.svg)
+![](https://img.shields.io/github/issues/SashenJayathilaka/AMAZON-Clone)
+![](https://img.shields.io/github/last-commit/SashenJayathilaka/AMAZON-Clone)
+
+<h4>
+    <a href="https://pricechecker-one.vercel.app/>View Demo</a>
+  <span> · </span>
+    <a href="https://github.com/sanskargouchandra/pricechecker/blob/master/README.md">Documentation</a>
+  <span> · </span>
+    <a href="https://github.com/sanskargouchandra/pricechecker/issues">Report Bug</a>
+  <span> · </span>
+    <a href="https://github.com/sanskargouchandra/pricechecker/issues">Request Feature</a>
+  </h4>
+</div>
+
+<br />
+
+
+
+## :star2: Overview
 
 Welcome to the PriceChecker project, a comprehensive solution for tracking product prices on Amazon. This project is designed to scrape product details from Amazon, store the data in a MongoDB database, and send email notifications to users when there are changes in the product details. The project includes a web application with a user-friendly interface that allows users to search for products, view product details, and subscribe to product updates. The application is built with Next.js and Tailwind CSS, and it includes several components such as a home page, product details page, navbar, search bar, product card, price info card, and modal.
 
 The server-side logic is implemented with serverless functions that handle various tasks such as connecting to the database, scraping product details, updating product information, and sending email notifications. The project also includes several utility functions for extracting information from web pages and formatting numbers.
 
-# Technologies and Frameworks
+# :space_invader: Technologies and Frameworks
 
 - Next.js: A React framework for building web applications. It is used for both the frontend and the backend of the application.
 - Tailwind CSS: A utility-first CSS framework for rapidly building custom designs. It is used for styling the application.
@@ -17,7 +54,18 @@ The server-side logic is implemented with serverless functions that handle vario
 - Google Fonts: A library of free licensed font families. It is used for defining the font styles in the application.
 # Installation
 
-Follow these steps to install and run the project:
+
+## :toolbox: Getting Started
+
+### :bangbang: Prerequisites
+
+- Create BrightData account <a href='https://brightdata.com/'>HERE</a>
+</br>
+Than got to Amazon-Webscraper and Copy API key and paste it on .env file.
+for Refrence `.env.example` file is on Repo.
+</br>
+
+### :gear:Follow these steps to install and run the project:
 
 1. **Clone the repository**
 
@@ -66,3 +114,8 @@ Follow these steps to install and run the project:
    ```
 
 Now, you should be able to access the project at `http://localhost:3000`.
+
+
+<br />
+
+<div align="center">Don't forget to leave a star ⭐️</div>
