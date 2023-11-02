@@ -20,7 +20,7 @@ A full-fleshed webscraper web app build on Next.js13 with tracking the prices of
 ![](https://img.shields.io/github/last-commit/SashenJayathilaka/AMAZON-Clone)
 
 <h4>
-    <a href="https://pricechecker-one.vercel.app/>View Demo</a>
+    <a href="https://pricechecker-one.vercel.app"/>View Demo</a>
   <span> · </span>
     <a href="https://github.com/sanskargouchandra/pricechecker/blob/master/README.md">Documentation</a>
   <span> · </span>
